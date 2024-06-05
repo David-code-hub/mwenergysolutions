@@ -3,3 +3,8 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+
+.text-outline-medium {
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px;
+}
