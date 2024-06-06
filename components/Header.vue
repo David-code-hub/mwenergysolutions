@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate h-[100vh]"
-  >
+  <div class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate">
     <div class="lg:py-44 lg:px-20">
       <div class="grid grid-cols-5">
         <div class="col-span-3 z-10">
@@ -27,8 +25,15 @@
       </div>
     </div>
     <div
-      class="bg-[url('/assets/images/bannerImage.png') object-cover h-full w-full absolute z-2 top-0 blur-sm fixed"
+      class="bg-[url('@/assets/images/bannerImage.png')] bg-cover bg-fixed h-full w-full absolute z-2 top-0 bg-center fixed blur-sm"
     ></div>
+  </div>
+  <div class="bg-[#0E46A3] py-10 px-20 w-full z-10">
+    <p class="uppercase text-white text-xl flex font-medium">
+      <span class="rounded-full h-[20px] w-[20px] bg-white my-auto mr-2"></span
+      >Our Highly Skilled Engineers are readily available Worldwide 24/7 • 365
+      days
+    </p>
   </div>
 </template>
 
