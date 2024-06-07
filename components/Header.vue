@@ -7,7 +7,7 @@
             Welcome to our<br />
             corner of the <span class="text-outline-medium">sea.</span>
           </h1>
-          <p class="text-white mt-5 text-xl font-light">
+          <p class="text-white mt-0 text-xl font-light">
             Here at MW ENERGY SOLUTIONS, we're dedicated to <br />keeping the
             heart of your vessel beating strong. 
           </p>
@@ -25,15 +25,17 @@
       </div>
     </div>
     <div
-      class="bg-[url('@/assets/images/bannerImage.png')] bg-cover bg-fixed h-full w-full absolute z-2 top-0 bg-center fixed blur-sm"
+      class="bg-[url('@/assets/images/bannerImage.png')] bg-black/30 bg-blend-multiply bg-cover bg-fixed h-full w-full absolute z-2 top-0 bg-center fixed"
     ></div>
-  </div>
-  <div class="bg-[#0E46A3] py-10 px-20 w-full z-10">
-    <p class="uppercase text-white text-xl flex font-medium">
-      <span class="rounded-full h-[20px] w-[20px] bg-white my-auto mr-2"></span
-      >Our Highly Skilled Engineers are readily available Worldwide 24/7 • 365
-      days
-    </p>
+    <div class="bg-[#0e46a357] py-8 px-20 w-full z-10 absolute bottom-0">
+      <p class="uppercase text-white text-xl flex font-medium">
+        <span
+          class="rounded-full h-[20px] w-[20px] bg-white my-auto mr-2"
+        ></span
+        >Our Highly Skilled Engineers are readily available Worldwide 24/7 • 365
+        days
+      </p>
+    </div>
   </div>
 </template>
 
