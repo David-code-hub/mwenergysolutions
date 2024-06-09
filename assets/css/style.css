@@ -9,11 +9,6 @@ body {
   font-family: "Switzer", sans-serif;
 }
 
-.text-outline-medium {
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke: 1px;
-}
-
 .text-base-grey {
   color: #999999;
 }
@@ -29,5 +24,51 @@ body {
   }
   100% {
     transform: translateX(-100%);
+  }
+}
+
+/* .text-outline-medium {
+  position: absolute;
+} */
+
+.outlined-text {
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 2px;
+}
+
+.wavey-text {
+  color: #fff;
+  animation: animate 4s ease-in-out infinite;
+  -webkit-text-stroke: 3px;
+}
+
+@keyframes animate {
+  0%,
+  100% {
+    clip-path: polygon(
+      0% 45%,
+      16% 44%,
+      33% 50%,
+      54% 60%,
+      70% 61%,
+      84% 59%,
+      100% 52%,
+      100% 100%,
+      0% 100%
+    );
+  }
+
+  50% {
+    clip-path: polygon(
+      0% 60%,
+      15% 65%,
+      34% 66%,
+      51% 62%,
+      67% 50%,
+      84% 45%,
+      100% 46%,
+      100% 100%,
+      0% 100%
+    );
   }
 }
