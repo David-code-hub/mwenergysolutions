@@ -3,9 +3,9 @@
     class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate overflow-hidden"
   >
     <Navigation />
-    <div class="lg:py-60 lg:px-20">
+    <div class="lg:py-60 lg:px-32">
       <div class="grid grid-cols-5">
-        <div class="col-span-4 z-10 relative">
+        <div class="col-span-5 z-10 relative">
           <h1
             class="text-white leading-tight text-8xl font-bold uppercase switzer-font header-text"
           >

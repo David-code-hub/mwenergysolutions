@@ -1,6 +1,6 @@
 <template>
   <div class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate">
-    <div class="lg:py-32 lg:px-20">
+    <div class="lg:py-32 lg:px-32">
       <div class="grid grid-cols-4 gap-x-20 gap-y-20">
         <div class="col-span-2 h-full">
           <h1
