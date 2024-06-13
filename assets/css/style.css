@@ -72,3 +72,23 @@ body {
     );
   }
 }
+
+.bounce-animation {
+  animation: 10s bounce infinite;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(0%);
+  }
+  30% {
+    transform: translateY(-10%);
+  }
+
+  60% {
+    transform: translateY(10%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
