@@ -1,11 +1,11 @@
 <template>
   <div
-    class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate overflow-hidden"
+    class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate overflow-hidden bg-[#0E46A3]"
   >
     <Navigation />
     <div class="lg:py-60 lg:px-32">
-      <div class="grid grid-cols-5">
-        <div class="col-span-5 z-10 relative">
+      <div class="grid grid-cols-5 text-center">
+        <div class="col-span-5 z-10 relative text-center">
           <h1
             class="text-white leading-tight text-8xl font-bold uppercase switzer-font header-text"
           >
@@ -14,7 +14,7 @@
             <span class="text-outline-medium outlined-text">sea.</span>
           </h1>
           <h1
-            class="text-white leading-tight text-8xl font-bold uppercase switzer-font absolute top-0"
+            class="text-white leading-tight text-8xl font-bold uppercase switzer-font absolute top-0 w-full"
           >
             Welcome to our<br />
             corner of the
@@ -25,7 +25,7 @@
             Here at MW ENERGY SOLUTIONS, we're dedicated to keeping<br />
             the heart of your vessel beating strong. 
           </p>
-          <div class="grid grid-cols-2 gap-5 w-fit my-10">
+          <div class="grid grid-cols-2 gap-5 w-fit my-10 mx-auto">
             <a
               class="text-lg py-3 px-5 text-center bg-white rounded-full border-white border-solid border-2 font-normal"
               >Explore More</a
@@ -38,9 +38,9 @@
         </div>
       </div>
     </div>
-    <div
+    <!-- <div
       class="bg-[url('@/assets/images/bannerImage.png')] bg-black/20 bg-blend-multiply bg-cover bg-fixed h-full w-full absolute z-2 top-0 bg-top fixed"
-    ></div>
+    ></div> -->
     <!--bg-[#0E46A3]-->
 
     <div

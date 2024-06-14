@@ -19,11 +19,11 @@
           </p>
         </div>
         <div class="overflow-hidden h-full">
-          <!-- <img
-            src="@/assets/images/aboutus.png"
-            class="mx-auto my-auto object-cover"
+          <img
+            src="@/assets/images/mission.png"
+            class="mx-auto my-auto w-full h-full object-cover"
             alt="mwenergy solutions image of boat"
-          /> -->
+          />
           <!-- <img
             src="@/assets/images/aboutus.png"
             class="mx-auto object-cover h-[500px] bounce-animation absolute w-[500px] top-0 rounded-xl rotate-[-10deg]"
@@ -35,7 +35,7 @@
       <div class="grid grid-cols-2">
         <div>
           <img
-            src="@/assets/images/bannerImage.png"
+            src="@/assets/images/mission.png"
             class="mx-auto object-cover h-full"
             alt="mwenergy solutions image of boat"
           />
