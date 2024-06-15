@@ -42,6 +42,14 @@ body {
   -webkit-text-stroke: 3px;
 }
 
+.bg-blue-circular-gradient {
+  background: rgb(14, 70, 163);
+  background: radial-gradient(
+    circle,
+    rgba(14, 70, 163, 1) 0%,
+    rgba(30, 3, 66, 1) 100%
+  );
+}
 @keyframes animate {
   0%,
   100% {

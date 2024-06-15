@@ -20,7 +20,7 @@
         </div>
         <div class="overflow-hidden h-full">
           <img
-            src="@/assets/images/mission.png"
+            src="@/assets/images/aboutus.avif"
             class="mx-auto my-auto w-full h-full object-cover"
             alt="mwenergy solutions image of boat"
           />
@@ -35,7 +35,7 @@
       <div class="grid grid-cols-2">
         <div>
           <img
-            src="@/assets/images/mission.png"
+            src="@/assets/images/mission.avif"
             class="mx-auto object-cover h-full"
             alt="mwenergy solutions image of boat"
           />

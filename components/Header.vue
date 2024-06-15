@@ -1,6 +1,6 @@
 <template>
   <div
-    class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate overflow-hidden bg-[#0E46A3]"
+    class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate overflow-hidden bg-blue-circular-gradient"
   >
     <Navigation />
     <div class="lg:py-60 lg:px-32">
@@ -21,7 +21,7 @@
             <span class="text-outline-medium wavey-text">sea.</span>
           </h1>
           <!--sub text-->
-          <p class="text-white mt-5 text-xl font-light">
+          <p class="text-white mt-5 text-xl font-normal">
             Here at MW ENERGY SOLUTIONS, we're dedicated to keeping<br />
             the heart of your vessel beating strong. 
           </p>
@@ -38,9 +38,9 @@
         </div>
       </div>
     </div>
-    <!-- <div
-      class="bg-[url('@/assets/images/bannerImage.png')] bg-black/20 bg-blend-multiply bg-cover bg-fixed h-full w-full absolute z-2 top-0 bg-top fixed"
-    ></div> -->
+    <div
+      class="bg-[url('@/assets/images/mission.avif')] bg-black/60 bg-blend-multiply bg-cover bg-fixed h-full w-full absolute z-2 top-0 bg-top fixed"
+    ></div>
     <!--bg-[#0E46A3]-->
 
     <div

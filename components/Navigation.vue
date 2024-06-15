@@ -27,7 +27,7 @@
             v-for="item in navigation"
             :key="item.name"
             :href="item.href"
-            class="text-md font-normal leading-6 text-white"
+            class="text-sm font-normal leading-6 text-white"
             >{{ item.name }}</a
           >
         </div>
