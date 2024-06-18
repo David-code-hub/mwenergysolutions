@@ -3,6 +3,7 @@
     <Header />
     <Services />
     <About />
+    <ConnectWithUs />
     <Footer />
   </div>
 </template>
