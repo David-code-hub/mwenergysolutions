@@ -1,5 +1,5 @@
 <template>
-  <header class="absolute inset-x-0 top-0 z-50">
+  <header class="absolute inset-x-0 top-0 z-50 lg:block hidden">
     <nav
       class="mx-auto flex max-w-7xl items-center justify-between py-6"
       aria-label="Global"

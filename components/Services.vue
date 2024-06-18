@@ -1,14 +1,14 @@
 <template>
   <div class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate">
-    <div class="lg:py-32 lg:px-32">
-      <div class="grid grid-cols-4 gap-x-20 gap-y-20">
+    <div class="lg:p-32 py-10 px-5">
+      <div class="grid lg:grid-cols-4 gap-x-20 gap-y-20">
         <div class="col-span-2 h-full">
           <h1
-            class="text-black leading-snug text-4xl font-bold uppercase switzer-font mb-3"
+            class="text-black leading-snug lg:text-4xl text-3xl font-bold uppercase switzer-font mb-3"
           >
             Our Services
           </h1>
-          <p class="text-base-grey mt-0 text-lg font-normal">
+          <p class="text-base-grey mt-0 lg:text-lg text-sm font-normal">
             At mw energy solutions we're delighted to present our service
             catalog, where we merge passion with precision to elevate marine and
             land-based engine performance.

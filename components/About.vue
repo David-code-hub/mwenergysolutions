@@ -3,10 +3,10 @@
     class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate bg-[#F8F9FA]"
   >
     <div>
-      <div class="grid grid-cols-2">
-        <div class="lg:py-32 lg:px-32">
+      <div class="grid lg:grid-cols-2">
+        <div class="lg:p-32 py-10 px-5">
           <h1
-            class="text-black leading-snug text-4xl font-bold uppercase switzer-font mb-3"
+            class="text-black leading-snug lg:text-4xl text-3xl font-bold uppercase switzer-font mb-3"
           >
             Welcome Aboard!
           </h1>
@@ -21,7 +21,7 @@
         <div class="overflow-hidden h-full">
           <img
             src="@/assets/images/aboutus.avif"
-            class="mx-auto my-auto w-full h-full object-cover"
+            class="lg:block hidden mx-auto my-auto w-full h-full object-cover"
             alt="mwenergy solutions image of boat"
           />
           <!-- <img
@@ -32,7 +32,7 @@
         </div>
       </div>
 
-      <div class="grid grid-cols-2">
+      <div class="grid lg:grid-cols-2">
         <div>
           <img
             src="@/assets/images/mission.avif"
@@ -40,9 +40,9 @@
             alt="mwenergy solutions image of boat"
           />
         </div>
-        <div class="lg:py-32 lg:px-32">
+        <div class="lg:p-32 py-10 px-5">
           <h1
-            class="text-black leading-snug text-4xl font-bold uppercase switzer-font mb-3"
+            class="text-black leading-snug lg:text-4xl text-3xl font-bold uppercase switzer-font mb-3"
           >
             Mission & Vision
           </h1>
