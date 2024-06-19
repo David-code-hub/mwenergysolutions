@@ -11,10 +11,6 @@
         </div>
       </div>
     </div>
-    <!-- <div class="bg-white absolute top-0 h-full rounded-t-lg"></div> -->
-    <!-- <div
-      class="bg-[url('@/assets/images/mission.avif')] bg-black/60 bg-blend-multiply bg-cover bg-fixed h-full w-full absolute top-0 bg-top fixed"
-    ></div> -->
   </div>
 </template>
 
