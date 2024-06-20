@@ -45,8 +45,6 @@
     <div
       class="bg-[url('@/assets/images/mission.avif')] bg-black/60 bg-blend-multiply bg-cover bg-fixed h-full w-full absolute z-2 top-0 bg-top fixed"
     ></div>
-    <!--bg-[#0E46A3]-->
-
     <div
       class="backdrop-blur-md bg-white/5 border-solid border-y-2 border-white lg:py-8 py-4 px-20 z-10 absolute bottom-[0em] w-[110vw] rotate-[0deg] overflow-hidden left-[-1em]"
     >
