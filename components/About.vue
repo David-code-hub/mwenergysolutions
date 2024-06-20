@@ -10,7 +10,7 @@
           >
             Welcome Aboard!
           </h1>
-          <p class="text-base-grey mt-0 text-lg font-normal">
+          <p class="text-base-grey mt-0 lg:text-lg text-sm font-normal">
             Whether you're in need of engine rebuilding, parts supply, or
             specialized marine services, you can count on us to navigate the
             depths of your requirements with precision and expertise. Join us as
@@ -24,11 +24,6 @@
             class="lg:block hidden mx-auto my-auto w-full h-full object-cover"
             alt="mwenergy solutions image of boat"
           />
-          <!-- <img
-            src="@/assets/images/aboutus.png"
-            class="mx-auto object-cover h-[500px] bounce-animation absolute w-[500px] top-0 rounded-xl rotate-[-10deg]"
-            alt="mwenergy solutions image of boat"
-          /> -->
         </div>
       </div>
 
@@ -46,7 +41,7 @@
           >
             Mission & Vision
           </h1>
-          <p class="text-base-grey mt-0 text-lg font-normal">
+          <p class="text-base-grey mt-0 lg:text-lg text-sm font-normal">
             To provide the highest quality, customized engine rebuilding
             solutions to our marine and land-based industry clients, ensuring
             optimal performance and reliability for their vessels including
