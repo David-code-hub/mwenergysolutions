@@ -1,6 +1,7 @@
 <template>
   <div
     class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate bg-[#F8F9FA]"
+    id="aboutUs"
   >
     <div>
       <div class="grid lg:grid-cols-2">

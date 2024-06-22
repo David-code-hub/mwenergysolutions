@@ -1,5 +1,8 @@
 <template>
-  <div class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate">
+  <div
+    class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate"
+    id="ourServices"
+  >
     <div class="lg:p-32 py-10 px-5">
       <div class="grid lg:grid-cols-4 gap-x-20 gap-y-20">
         <div class="col-span-2 h-full">
