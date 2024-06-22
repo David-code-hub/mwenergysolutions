@@ -91,9 +91,9 @@
 </template>
 <script setup>
 const navigation = [
-  { name: "Our Services", href: "#" },
-  { name: "About Us", href: "#" },
-  { name: "Testimonials", href: "#" },
-  { name: "Our Team", href: "#" },
+  { name: "Our Services", href: "#ourServices" },
+  { name: "About Us", href: "#aboutUs" },
+  { name: "Testimonials", href: "#testimonials" },
+  { name: "Our Team", href: "#ourTeam" },
 ];
 </script>
