@@ -5,7 +5,7 @@
   >
     <div>
       <div class="grid lg:grid-cols-2">
-        <div class="lg:p-32 py-10 px-5">
+        <div class="lg:p-32 py-10 px-5" data-aos="fade-right">
           <h1
             class="text-black leading-snug lg:text-4xl text-3xl font-bold uppercase switzer-font mb-3"
           >
@@ -19,7 +19,7 @@
             of your marine engines. Smooth seas and fair winds. 
           </p>
         </div>
-        <div class="overflow-hidden h-full">
+        <div class="overflow-hidden h-full" data-aos="fade-left">
           <img
             src="@/assets/images/aboutus.avif"
             class="lg:block hidden mx-auto my-auto w-full h-full object-cover"
@@ -29,14 +29,14 @@
       </div>
 
       <div class="grid lg:grid-cols-2">
-        <div>
+        <div data-aos="fade-right">
           <img
             src="@/assets/images/mission.avif"
             class="mx-auto object-cover h-full"
             alt="mwenergy solutions image of boat"
           />
         </div>
-        <div class="lg:p-32 py-10 px-5">
+        <div class="lg:p-32 py-10 px-5" data-aos="fade-left">
           <h1
             class="text-black leading-snug lg:text-4xl text-3xl font-bold uppercase switzer-font mb-3"
           >
