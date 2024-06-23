@@ -5,6 +5,10 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .switzer-font {
   font-family: "Switzer", sans-serif;
 }

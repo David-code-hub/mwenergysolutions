@@ -5,7 +5,7 @@
   >
     <div class="lg:p-32 py-10 px-5">
       <div class="grid lg:grid-cols-4 gap-x-20 gap-y-20">
-        <div class="col-span-2 h-full">
+        <div class="col-span-2 h-full" data-aos="zoom-in">
           <h1
             class="text-black leading-snug lg:text-4xl text-3xl font-bold uppercase switzer-font mb-3"
           >
@@ -24,7 +24,7 @@
           </div>
         </div>
         <!--service item-->
-        <div>
+        <div data-aos="zoom-in">
           <div
             class="h-[60px] w-[60px] rounded-full bg-[#0e46a338] mb-3 content-center"
           >
@@ -40,7 +40,7 @@
           </p>
         </div>
         <!--service item-->
-        <div>
+        <div data-aos="zoom-in">
           <div
             class="h-[60px] w-[60px] rounded-full bg-[#0e46a338] mb-3 content-center"
           >
@@ -55,7 +55,7 @@
           </p>
         </div>
         <!--service item-->
-        <div>
+        <div data-aos="zoom-in">
           <div
             class="h-[60px] w-[60px] rounded-full bg-[#0e46a338] mb-3 content-center"
           >
@@ -70,7 +70,7 @@
           </p>
         </div>
         <!--service item-->
-        <div>
+        <div data-aos="zoom-in">
           <div
             class="h-[60px] w-[60px] rounded-full bg-[#0e46a338] mb-3 content-center"
           >
@@ -85,7 +85,7 @@
           </p>
         </div>
         <!--service item-->
-        <div>
+        <div data-aos="zoom-in">
           <div
             class="h-[60px] w-[60px] rounded-full bg-[#0e46a338] mb-3 content-center"
           >
@@ -100,7 +100,7 @@
           </p>
         </div>
         <!--service item-->
-        <div>
+        <div data-aos="zoom-in">
           <div
             class="h-[60px] w-[60px] rounded-full bg-[#0e46a338] mb-3 content-center"
           >
