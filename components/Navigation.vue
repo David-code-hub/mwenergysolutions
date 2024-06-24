@@ -32,7 +32,7 @@
           >
         </div>
         <a
-          href="#"
+          href="#contactUs"
           class="text-sm font-normal leading-6 text-black bg-white rounded-full py-2 px-5"
           >Contact Us</a
         >
@@ -93,7 +93,7 @@
 const navigation = [
   { name: "Our Services", href: "#ourServices" },
   { name: "About Us", href: "#aboutUs" },
-  { name: "Testimonials", href: "#testimonials" },
-  { name: "Our Team", href: "#ourTeam" },
+  // { name: "Testimonials", href: "#testimonials" },
+  // { name: "Our Team", href: "#ourTeam" },
 ];
 </script>
