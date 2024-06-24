@@ -31,11 +31,13 @@
             class="grid lg:grid-cols-2 lg:w-fit w-full gap-5 w-fit lg:my-10 mb-20 mt-10 mx-auto"
           >
             <a
-              class="text-lg lg:py-3 lg:px-5 py-2 px-3 text-center bg-white rounded-full border-white border-solid border-2 font-normal"
+              href="#ourServices"
+              class="text-lg lg:py-3 lg:px-5 py-2 px-3 text-center bg-white rounded-full border-white border-solid border-2 font-normal hover:opacity-90"
               >Explore More</a
             >
             <a
-              class="text-lg text-center lg:py-3 lg:px-5 py-2 px-3 bg-transparent rounded-full border-white border-solid border-2 text-white font-normal"
+              href="mailto:info@mwenergysolutions.co.za"
+              class="text-lg text-center lg:py-3 lg:px-5 py-2 px-3 bg-transparent rounded-full border-white border-solid border-2 text-white font-normal hover:bg-white hover:text-black ease-in duration-300"
               >Get Quote</a
             >
           </div>

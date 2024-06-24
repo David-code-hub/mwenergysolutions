@@ -18,7 +18,8 @@
           </p>
           <div class="mt-10">
             <a
-              class="text-lg text-center py-3 px-5 bg-transparent rounded-full border-[#0E46A3] border-solid border-2 text-[#0E46A3]"
+              href="mailto:info@mwenergysolutions.co.za"
+              class="text-lg text-center py-3 px-5 bg-transparent rounded-full border-[#0E46A3] border-solid border-2 text-[#0E46A3] hover:bg-[#0e46a3] hover:text-white ease-in duration-300"
               >Get Quote</a
             >
           </div>
