@@ -18,7 +18,7 @@
       </p>
       <a
         data-aos="fade-up"
-        href="mailto:mwenergysolutions.co.za"
+        href="mailto:info@mwenergysolutions.co.za"
         class="text-md lg:py-4 lg:px-6 py-2 px-3 text-center bg-[#0E46A3] text-white rounded-full border-white border-solid border-2 font-normal hover:bg-white hover:text-black ease-in duration-300"
         >Let's Connect</a
       >

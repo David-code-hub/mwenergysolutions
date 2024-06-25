@@ -8,7 +8,11 @@
           <p class="font-medium lg:text-2xl text-lg mb-3">Contact Us</p>
           <p class="text-sm mb-2">
             <span class="font-medium">Email</span> :
-            info@mwenergysolutions.co.za
+            <a
+              href="mailto:info@mwenerysolutions.co.za"
+              class="underline hover:text-[#0e46a3]"
+              >info@mwenergysolutions.co.za</a
+            >
           </p>
           <p class="text-sm mb-2">
             <span class="font-medium">Directors</span> : WM Pearce | MC
