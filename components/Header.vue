@@ -3,7 +3,7 @@
     class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate overflow-hidden bg-blue-circular-gradient"
   >
     <Navigation />
-    <div class="lg:py-60 lg:px-32 py-10 px-5">
+    <div class="lg:py-60 lg:px-32 py-10 px-5 lg:mt-0 mt-24">
       <div class="grid grid-cols-5 text-center">
         <div class="col-span-5 z-10 relative text-center">
           <h1
