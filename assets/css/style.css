@@ -104,3 +104,37 @@ html {
     transform: translateY(0);
   }
 }
+
+.fadedown {
+  visibility: hidden;
+  opacity: 0;
+  animation: fadeDown 2s 0ms forwards;
+}
+
+.fadeup {
+  visibility: visible;
+  opacity: 1;
+  animation: fadeUp 300ms 0ms forwards;
+}
+
+@keyframes fadeUp {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeDown {
+  from {
+    transform: translateY(-30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
