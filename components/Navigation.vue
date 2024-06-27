@@ -57,7 +57,7 @@
       </div>
       <!--mobile menu-->
       <div
-        v-if="openMenu"
+        :class="{ fadeup: openMenu === true, fadedown: openMenu === false }"
         class="fixed h-full top-0 z-20 bg-white py-7 px-10 w-full -ml-5 lg:hidden"
       >
         <div class="w-full text-right">
