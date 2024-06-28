@@ -26,18 +26,23 @@
             alt="BEEE mwenergysolutions"
           />
         </div>
-        <div class="lg:col-span-1 col-span-3 lg:text-left text-center my-auto">
+        <div
+          class="lg:col-span-1 col-span-3 lg:text-center text-center my-auto"
+        >
           <img
             src="@/assets/images/beee.png"
-            class="w-20 object-contain lg:mr-auto mb-3"
+            class="w-20 object-contain mx-auto mb-3"
             alt="BEEE mwenergysolutions"
           />
           <p class="text-sm mb-2">B-BBEE LEVEL 1 CONTRIBUTOR</p>
-
           <!-- <p class="text-sm mb-2">
             <span class="font-medium">Company Registration Number</span> :
             2024/211085/07
           </p> -->
+        </div>
+        <div class="col-span-3">
+          <hr />
+          <p class="text-sm mt-5">© Mwenergysolutions. All Rights Reserved.</p>
         </div>
       </div>
     </div>
