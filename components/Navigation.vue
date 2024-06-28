@@ -57,13 +57,14 @@
       </div>
       <!--mobile menu-->
       <div
-        :class="{ fadeup: openMenu === true, fadedown: openMenu === false }"
+        v-if="openMenu"
+        data-aos="fade-up"
         class="fixed h-full top-0 z-20 bg-white py-7 px-10 w-full -ml-5 lg:hidden"
       >
         <div class="w-full text-right">
           <button
             type="button"
-            class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+            class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:focus:ring-gray-600"
             @click="openMenu = false"
           >
             <span class="sr-only">Close main menu</span>
@@ -97,16 +98,17 @@
         </div>
 
         <div class="block">
+          <p class="font-bold text-md mb-5">Menu</p>
           <a
             v-for="item in navigation"
             :key="item.name"
             :href="item.href"
             @click="openMenu = false"
-            class="text-lg font-normal leading-6 text-black flex my-3"
+            class="text-lg font-normal underline leading-6 text-black flex my-3"
             >{{ item.name }}</a
           >
         </div>
-        <hr class="mb-5" />
+        <br />
         <a
           href="#contactUs"
           @click="openMenu = false"
