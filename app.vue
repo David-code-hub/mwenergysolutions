@@ -18,6 +18,5 @@ useSeoMeta({
   ogDescription:
     "Here at MW ENERGY SOLUTIONS, we're dedicated to keeping the heart of your vessel beating strong.",
   ogImage: "@/assets/images/logo.png",
-  // twitterCard: 'summary_large_image',
 });
 </script>
