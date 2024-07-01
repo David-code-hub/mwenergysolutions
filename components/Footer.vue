@@ -35,10 +35,6 @@
             alt="BEEE mwenergysolutions"
           />
           <p class="text-sm mb-2">B-BBEE LEVEL 1 CONTRIBUTOR</p>
-          <!-- <p class="text-sm mb-2">
-            <span class="font-medium">Company Registration Number</span> :
-            2024/211085/07
-          </p> -->
         </div>
         <div class="col-span-3">
           <hr />

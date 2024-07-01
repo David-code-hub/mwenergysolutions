@@ -62,9 +62,6 @@
         />
       </svg>
     </div>
-    <!-- <div
-      class="bg-[url('@/assets/images/mission.avif')] bg-black/60 bg-blend-multiply bg-cover bg-fixed h-full w-full absolute z-2 top-0 bg-top fixed"
-    ></div> -->
   </div>
 </template>
 
