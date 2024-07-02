@@ -1,5 +1,14 @@
 <template>
   <div class="mx-auto w-fit overflow-hidden">
+    <Head>
+      <Title>Mwenergysolutions</Title>
+      <Meta
+        name="description"
+        content="
+    Here at MW ENERGY SOLUTIONS, we're dedicated to keeping the heart of your vessel beating strong.
+      "
+      />
+    </Head>
     <Navigation />
 
     <Header />
