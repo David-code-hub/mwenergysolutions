@@ -21,7 +21,7 @@
         </div>
         <div class="overflow-hidden h-full" data-aos="fade-left">
           <img
-            src="@/assets/images/aboutus.avif"
+            src="@/assets/images/aboutus.webp"
             class="lg:block hidden mx-auto my-auto w-full h-full object-cover"
             alt="mwenergy solutions image of boat"
           />
@@ -31,7 +31,7 @@
       <div class="grid lg:grid-cols-2">
         <div data-aos="fade-right">
           <img
-            src="@/assets/images/mission.avif"
+            src="@/assets/images/mission.webp"
             class="mx-auto object-cover h-full"
             alt="mwenergy solutions image of boat"
           />
