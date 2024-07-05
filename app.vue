@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto w-fit overflow-hidden">
+  <div class="mx-auto overflow-hidden">
     <Head>
       <Title>Mwenergysolutions</Title>
       <Meta
