@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto overflow-hidden">
+  <div class="mx-auto w-fit overflow-hidden">
     <Head>
       <Title>Mwenergysolutions</Title>
       <Meta
@@ -16,7 +16,7 @@
           alt="mwenergysolutions logo"
           class="w-40 h-auto my-auto bounce-animation"
         />
-        <p class="mt-3 font-normal text-lg text-center">
+        <p class="mt-3 font-normal text-md text-center">
           loading, please wait...
         </p>
       </div>
