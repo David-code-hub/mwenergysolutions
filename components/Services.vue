@@ -1,6 +1,6 @@
 <template>
   <div
-    class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate"
+    class="xl:max-w-[1440px] w-full 2xl:w-[1440px] relative isolate"
     id="ourServices"
   >
     <div class="lg:p-32 py-10 px-5">
