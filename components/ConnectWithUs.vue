@@ -1,6 +1,6 @@
 <template>
   <div
-    class="xl:max-w-[1440px] w-full xl:w-[1440px] relative isolate bg-[#0E46A3]"
+    class="xl:max-w-[1440px] w-full 2xl:w-[1440px] lg:w-[100vw] relative isolate bg-[#0E46A3]"
     id="contactUs"
   >
     <div class="lg:p-32 py-10 px-5 text-center z-10 relative">
