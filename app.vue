@@ -10,14 +10,14 @@
       />
     </Head>
     <div class="h-[100vh] w-full justify-center flex flex-col" v-if="loading">
-      <div>
+      <div class="mx-auto">
         <img
           src="@/assets/images/blackLogo.png"
           alt="mwenergysolutions logo"
           class="w-40 h-auto my-auto bounce-animation"
         />
         <p class="mt-3 font-normal text-md text-center">
-          loading, please wait...
+          Loading, please wait.
         </p>
       </div>
     </div>
@@ -26,6 +26,7 @@
       <Header />
       <Services />
       <About />
+      <Testimonials />
       <ConnectWithUs />
       <Footer />
     </NuxtLayout>
