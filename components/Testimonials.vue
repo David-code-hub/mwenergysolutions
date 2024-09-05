@@ -1,6 +1,6 @@
 <template>
   <div
-    class="xl:max-w-[1440px] w-full xl:w-[1440px] bg-white relative isolate overflow-hidden"
+    class="xl:max-w-[1440px] w-full 2xl:w-[1440px] lg:w-[100vw] relative isolate"
     id="testimonials"
   >
     <div class="lg:p-32 py-10 px-5">
@@ -45,7 +45,7 @@
               </div>
               <div class="my-auto">
                 <p class="text-black">Sports Aviations</p>
-                <p class="mt-none text-xs text-base-grey">Review</p>
+                <p class="mt-none text-xs text-base-grey">Testimonial</p>
               </div>
             </div>
           </div>
@@ -81,7 +81,7 @@
               </div>
               <div class="my-auto">
                 <p class="text-black">Jed Hewson</p>
-                <p class="mt-none text-xs text-base-grey">Review</p>
+                <p class="mt-none text-xs text-base-grey">Testimonial</p>
               </div>
             </div>
           </div>
