@@ -7,11 +7,13 @@
       <div class="grid lg:grid-cols-4 gap-x-20 gap-y-20">
         <div class="col-span-2 h-full" data-aos="zoom-in">
           <h1
-            class="text-black leading-snug lg:text-4xl text-3xl font-bold uppercase switzer-font mb-3"
+            class="text-black leading-snug lg:text-3xl text-3xl font-semibold uppercase switzer-font mb-3"
           >
             Our Services
           </h1>
-          <p class="text-base-grey mt-0 lg:text-lg text-sm font-normal">
+          <p
+            class="text-base-grey mt-0 lg:text-base text-sm font-normal leading-6"
+          >
             At mw energy solutions we're delighted to present our service
             catalog, where we merge passion with precision to elevate marine and
             land-based engine performance.
@@ -35,7 +37,7 @@
             />
           </div>
           <p class="font-medium text-md text-black mb-0">Availability</p>
-          <p class="font-normal text-sm text-base-grey">
+          <p class="font-normal text-sm text-base-grey leading-6">
             Our Highly Skilled Engineers are readily available Worldwide 24/7 •
             365 days
           </p>
@@ -51,7 +53,7 @@
             />
           </div>
           <p class="font-medium text-md text-black mb-0">Marine & Land based</p>
-          <p class="font-normal text-sm text-base-grey">
+          <p class="font-normal text-sm text-base-grey leading-6">
             Marine & Land based Medium to High-Speed Engine Commercial pleasure
           </p>
         </div>
@@ -66,7 +68,7 @@
             />
           </div>
           <p class="font-medium text-md text-black mb-0">Consulting</p>
-          <p class="font-normal text-sm text-base-grey">
+          <p class="font-normal text-sm text-base-grey leading-6">
             Expert guidance and tailored solutions
           </p>
         </div>
@@ -81,7 +83,7 @@
             />
           </div>
           <p class="font-medium text-md text-black mb-0">Reconditioning</p>
-          <p class="font-normal text-sm text-base-grey">
+          <p class="font-normal text-sm text-base-grey leading-6">
             Engine & Component's Reconditioning
           </p>
         </div>
@@ -96,7 +98,7 @@
             />
           </div>
           <p class="font-medium text-md text-black mb-0">Maintenance</p>
-          <p class="font-normal text-sm text-base-grey">
+          <p class="font-normal text-sm text-base-grey leading-6">
             From In-House Maintenance and tailored solutions
           </p>
         </div>
@@ -111,7 +113,7 @@
             />
           </div>
           <p class="font-medium text-md text-black mb-0">Installations</p>
-          <p class="font-normal text-sm text-base-grey">
+          <p class="font-normal text-sm text-base-grey leading-6">
             Various Engine Installations
           </p>
         </div>

@@ -14,10 +14,10 @@
         <img
           src="@/assets/images/blackLogo.png"
           alt="mwenergysolutions logo"
-          class="w-40 h-auto my-auto bounce-animation"
+          class="w-32 h-auto my-auto mx-auto bounce-animation"
         />
         <p class="mt-3 font-normal text-md text-center">
-          Loading, please wait.
+          Loading, please wait...
         </p>
       </div>
     </div>

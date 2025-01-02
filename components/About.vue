@@ -6,12 +6,17 @@
     <div>
       <div class="grid lg:grid-cols-2">
         <div class="lg:p-32 py-10 px-5" data-aos="fade-right">
+          <div class="text-sm uppercase text-black font-medium mb-1">
+            Welcome aboard!
+          </div>
           <h1
-            class="text-black leading-snug lg:text-4xl text-3xl font-bold uppercase switzer-font mb-3"
+            class="text-black leading-snug lg:text-3xl text-3xl font-semibold uppercase switzer-font mb-3"
           >
-            Welcome Aboard!
+            Your Partner for Reliable Marine Engine Solutions
           </h1>
-          <p class="text-base-grey mt-0 lg:text-lg text-sm font-normal">
+          <p
+            class="text-base-grey mt-0 lg:text-base text-sm font-normal leading-6"
+          >
             Whether you're in need of engine rebuilding, parts supply, or
             specialized marine services, you can count on us to navigate the
             depths of your requirements with precision and expertise. Join us as
@@ -37,21 +42,31 @@
           />
         </div>
         <div class="lg:p-32 py-10 px-5" data-aos="fade-left">
-          <h1
-            class="text-black leading-snug lg:text-4xl text-3xl font-bold uppercase switzer-font mb-3"
-          >
+          <div class="text-sm uppercase text-black font-medium mb-1">
             Mission & Vision
+          </div>
+          <h1
+            class="text-black leading-snug lg:text-3xl text-3xl font-semibold uppercase switzer-font mb-3"
+          >
+            Expert Engine Rebuilding for Marine & Land-Based Industry clients
           </h1>
-          <p class="text-base-grey mt-0 lg:text-lg text-sm font-normal">
-            To provide the highest quality, customized engine rebuilding
-            solutions to our marine and land-based industry clients, ensuring
-            optimal performance and reliability for their vessels including
-            land-based equipment. <br /><br />To be the leading and most
-            sought-after engine rebuilding company in the marine ‘land-based
-            service and supply industry, known for our exceptional expertise,
-            unwavering commitment to quality, and passion for enhancing the
-            efficiency of marine and land-based engines worldwide.
-          </p>
+          <div
+            class="text-base-grey mt-0 lg:text-base text-sm font-normal leading-6"
+          >
+            <div class="mb-3">
+              To provide the highest quality, customized engine rebuilding
+              solutions to our marine and land-based industry clients, ensuring
+              optimal performance and reliability for their vessels including
+              land-based equipment.
+            </div>
+            <div>
+              To be the leading and most sought-after engine rebuilding company
+              in the marine ‘land-based service and supply industry, known for
+              our exceptional expertise, unwavering commitment to quality, and
+              passion for enhancing the efficiency of marine and land-based
+              engines worldwide.
+            </div>
+          </div>
         </div>
       </div>
     </div>

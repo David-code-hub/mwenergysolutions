@@ -4,6 +4,12 @@
   >
     <div class="lg:py-60 lg:px-32 py-10 px-5 lg:mt-0 mt-24">
       <div class="grid grid-cols-5 text-center">
+        <div
+          class="z-10 rounded-full w-fit text-gray-300 capitalize text-sm border border-gray-400 px-4 py-1 flex gap-2 items-center col-span-5 mx-auto mb-3"
+        >
+          <div class="h-2 w-2 bg-red-600 rounded-full animate-pulse"></div>
+          Available Worldwide 24/7
+        </div>
         <div class="col-span-5 z-10 relative text-center">
           <h1
             class="text-white leading-tight lg:text-8xl text-5xl lg:font-bold font-semibold uppercase switzer-font header-text"
