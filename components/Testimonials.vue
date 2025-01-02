@@ -12,20 +12,8 @@
       class="absolute sm:block hidden left-10 bottom-10 text-gray-500 opacity-30 size-20"
     />
     <div class="lg:p-32 py-10 px-5">
-      <!-- <div>
-        <h1
-          class="text-black text-left leading-snug lg:text-4xl text-3xl font-bold uppercase switzer-font mb-3"
-        >
-          Testimonials
-        </h1>
-      </div> -->
-      <!-- <p
-        class="text-base-grey mt-0 text-left lg:text-lg text-sm font-normal mb-10"
-      >
-        See what people have to say about our service.
-      </p> -->
       <div class="lg:grid grid-cols-5 gap-10 h-full pb-xl">
-        <div class="relative h-full lg:mb-0 mb-5 col-span-2" data-aos="fade-up">
+        <div class="relative h-full lg:mb-0 mb-5 col-span-2">
           <div class="rounded-xl bg-transparent h-full">
             <Icon
               name="fontisto:star"
@@ -59,7 +47,7 @@
           </div>
         </div>
 
-        <div class="col-span-3" data-aos="fade-up">
+        <div class="col-span-3">
           <div class="rounded-xl bg-transparent">
             <Icon
               name="fontisto:star"

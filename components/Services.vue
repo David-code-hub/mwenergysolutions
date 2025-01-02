@@ -5,7 +5,7 @@
   >
     <div class="lg:p-32 py-10 px-5">
       <div class="grid lg:grid-cols-4 gap-x-7 gap-y-7">
-        <div class="col-span-2 h-full" data-aos="zoom-in">
+        <div class="col-span-2 h-full">
           <div class="text-sm uppercase text-black font-medium mb-1">
             Our Services
           </div>
@@ -25,7 +25,6 @@
         <!--service item
         -->
         <div
-          data-aos="zoom-in"
           class="hover:bg-gray-100 p-5 rounded-xl"
           v-for="service in services"
           :key="service.title"
