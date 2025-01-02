@@ -38,7 +38,7 @@
             <a
               href="#ourServices"
               class="text-lg lg:py-3 lg:px-5 py-2 px-3 text-center bg-white rounded-full border-white border-solid border-2 font-normal hover:opacity-90"
-              >Explore More</a
+              >Find Out More</a
             >
             <a
               href="mailto:info@mwenergysolutions.co.za"
@@ -63,8 +63,6 @@
         >
           {{ service.title }}
           <Icon name="fontisto:sait-boat" class="size-6 text-white" />
-          <!-- Our Highly Skilled Engineers are readily available Worldwide • 24/7 •
-        365 days -->
         </div>
       </div>
     </div>
