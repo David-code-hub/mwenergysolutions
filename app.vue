@@ -14,10 +14,10 @@
         <img
           src="@/assets/images/blackLogo.png"
           alt="mwenergysolutions logo"
-          class="w-40 h-auto my-auto bounce-animation"
+          class="w-32 h-auto my-auto mx-auto bounce-animation"
         />
         <p class="mt-3 font-normal text-md text-center">
-          Loading, please wait.
+          Loading, please wait...
         </p>
       </div>
     </div>
@@ -44,6 +44,7 @@ useSeoMeta({
   ogDescription:
     "Here at MW ENERGY SOLUTIONS, we're dedicated to keeping the heart of your vessel beating strong.",
   ogImage: "@/assets/images/logo.png",
+  googleSiteVerification: "iPg4pQWG_jZuSo1E8RQWezeGNnfzuSA42Lrz5c5lfQw",
 });
 
 nuxtApp.hook("app:mounted", () => {
