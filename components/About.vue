@@ -5,7 +5,7 @@
   >
     <div>
       <div class="grid lg:grid-cols-2">
-        <div class="lg:p-32 py-10 px-5" data-aos="fade-right">
+        <div class="lg:p-32 py-10 px-5">
           <div class="text-sm uppercase text-black font-medium mb-1">
             Welcome aboard!
           </div>
@@ -24,7 +24,7 @@
             of your marine engines. Smooth seas and fair winds. 
           </p>
         </div>
-        <div class="overflow-hidden h-full" data-aos="fade-left">
+        <div class="overflow-hidden h-full">
           <img
             src="@/assets/images/aboutus.webp"
             class="lg:block hidden mx-auto my-auto w-full h-full object-cover"
@@ -34,14 +34,14 @@
       </div>
 
       <div class="grid lg:grid-cols-2">
-        <div data-aos="fade-right">
+        <div>
           <img
             src="@/assets/images/mission.webp"
             class="mx-auto object-cover h-full"
             alt="mwenergy solutions image of boat"
           />
         </div>
-        <div class="lg:p-32 py-10 px-5" data-aos="fade-left">
+        <div class="lg:p-32 py-10 px-5">
           <div class="text-sm uppercase text-black font-medium mb-1">
             Mission & Vision
           </div>

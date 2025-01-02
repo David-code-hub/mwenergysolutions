@@ -10,18 +10,13 @@
       <h1
         class="text-white leading-tight lg:text-7xl text-3xl font-bold uppercase switzer-font header-text"
         style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)"
-        data-aos="fade-up"
       >
         Ready to get onboard?
       </h1>
-      <p
-        class="text-white mt-3 lg:text-xl text-sm font-normal mb-12"
-        data-aos="fade-up"
-      >
+      <p class="text-white mt-3 lg:text-xl text-sm font-normal mb-12">
         Join Us for Smooth Sailing and Exceptional Service
       </p>
       <a
-        data-aos="fade-up"
         href="mailto:info@mwenergysolutions.co.za"
         class="text-md lg:py-4 lg:px-6 py-2 px-3 duration-300 text-white rounded-full border-white border-solid border-2 font-normal hover:bg-white hover:text-black"
         >Let's Connect</a

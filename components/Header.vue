@@ -50,19 +50,46 @@
       </div>
     </div>
     <div
-      class="bg-[url('@/assets/images/mission.webp')] bg-black/60 bg-blend-multiply bg-cover h-full w-full absolute z-2 top-0 bg-top fixed"
+      class="bg-[url('@/assets/images/mission.webp')] bg-black/60 bg-blend-multiply bg-cover h-full w-full absolute z-2 top-0 bg-top"
     ></div>
     <div
-      class="backdrop-blur-md bg-white/5 border-solid border-y-2 border-white lg:py-8 py-4 px-20 z-10 absolute bottom-[0em] w-[110vw] rotate-[0deg] overflow-hidden left-[-1em]"
+      class="flex flex-row backdrop-blur-md bg-white/5 border-solid border-y-2 border-white lg:py-6 py-4 px-20 z-10 absolute bottom-[0em] w-[110vw] rotate-[0deg] overflow-hidden left-[-1em]"
     >
-      <p
-        class="uppercase text-white lg:text-4xl text-xl flex lg:font-bold font-medium switzer-font text-nowrap marquee"
-      >
-        Our Highly Skilled Engineers are readily available Worldwide • 24/7 •
-        365 days
-      </p>
+      <div class="!flex flex-row w-full marquee gap-5">
+        <div
+          class="uppercase text-white lg:text-3xl text-xl flex items-center gap-5 lg:font-semibold font-medium switzer-font text-nowrap"
+          v-for="service in services"
+          :key="service.title"
+        >
+          {{ service.title }}
+          <Icon name="fontisto:sait-boat" class="size-6 text-white" />
+          <!-- Our Highly Skilled Engineers are readily available Worldwide • 24/7 •
+        365 days -->
+        </div>
+      </div>
     </div>
   </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+const services = [
+  {
+    title: "Availability",
+  },
+  {
+    title: "Marine & Land based",
+  },
+  {
+    title: "Consulting",
+  },
+  {
+    title: "Reconditioning",
+  },
+  {
+    title: "Maintenance",
+  },
+  {
+    title: "Installations",
+  },
+];
+</script>
