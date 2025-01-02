@@ -10,7 +10,7 @@
             Welcome aboard!
           </div>
           <h1
-            class="text-black leading-snug lg:text-3xl text-3xl font-semibold uppercase switzer-font mb-3"
+            class="text-black leading-snug lg:text-3xl text-3xl font-semibold capitalize switzer-font mb-3"
           >
             Your Partner for Reliable Marine Engine Solutions
           </h1>
@@ -46,7 +46,7 @@
             Mission & Vision
           </div>
           <h1
-            class="text-black leading-snug lg:text-3xl text-3xl font-semibold uppercase switzer-font mb-3"
+            class="text-black leading-snug lg:text-3xl text-3xl font-semibold capitalize switzer-font mb-3"
           >
             Expert Engine Rebuilding for Marine & Land-Based Industry clients
           </h1>

@@ -5,7 +5,7 @@
     <div class="lg:py-60 lg:px-32 py-10 px-5 lg:mt-0 mt-24">
       <div class="grid grid-cols-5 text-center">
         <div
-          class="z-10 rounded-full w-fit text-gray-300 capitalize text-sm border border-gray-400 px-4 py-1 flex gap-2 items-center col-span-5 mx-auto mb-3"
+          class="z-10 rounded-full w-fit text-gray-300 capitalize text-sm border border-gray-500 px-4 py-1 flex gap-2 items-center col-span-5 mx-auto mb-3"
         >
           <div class="h-2 w-2 bg-red-600 rounded-full animate-pulse"></div>
           Available Worldwide 24/7
@@ -33,7 +33,7 @@
             the heart of your vessel beating strong. 
           </p>
           <div
-            class="grid lg:grid-cols-2 lg:w-fit w-full gap-5 w-fit lg:my-10 mb-20 mt-10 mx-auto"
+            class="grid lg:grid-cols-2 lg:w-fit w-full gap-5 lg:my-10 mb-20 mt-10 mx-auto"
           >
             <a
               href="#ourServices"
@@ -50,7 +50,7 @@
       </div>
     </div>
     <div
-      class="bg-[url('@/assets/images/mission.webp')] bg-black/60 bg-blend-multiply bg-cover bg-fixed h-full w-full absolute z-2 top-0 bg-top fixed"
+      class="bg-[url('@/assets/images/mission.webp')] bg-black/60 bg-blend-multiply bg-cover h-full w-full absolute z-2 top-0 bg-top fixed"
     ></div>
     <div
       class="backdrop-blur-md bg-white/5 border-solid border-y-2 border-white lg:py-8 py-4 px-20 z-10 absolute bottom-[0em] w-[110vw] rotate-[0deg] overflow-hidden left-[-1em]"
