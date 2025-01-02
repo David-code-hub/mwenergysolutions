@@ -3,9 +3,13 @@
     class="xl:max-w-[1440px] w-full 2xl:w-[1440px] lg:w-[100vw] relative isolate bg-[#0E46A3]"
     id="contactUs"
   >
+    <div
+      class="bg-[url('@/assets/images/boatinocean.jpeg')] bg-black/60 bg-blend-multiply bg-cover h-full w-full absolute z-2 top-0 bg-bottom"
+    ></div>
     <div class="lg:p-32 py-10 px-5 text-center z-10 relative">
       <h1
         class="text-white leading-tight lg:text-7xl text-3xl font-bold uppercase switzer-font header-text"
+        style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)"
         data-aos="fade-up"
       >
         Ready to get onboard?
@@ -19,11 +23,11 @@
       <a
         data-aos="fade-up"
         href="mailto:info@mwenergysolutions.co.za"
-        class="text-md lg:py-4 lg:px-6 py-2 px-3 duration-300 bg-[#0E46A3] text-white rounded-full border-white border-solid border-2 font-normal hover:bg-white hover:text-black"
+        class="text-md lg:py-4 lg:px-6 py-2 px-3 duration-300 text-white rounded-full border-white border-solid border-2 font-normal hover:bg-white hover:text-black"
         >Let's Connect</a
       >
     </div>
-    <div class="absolute top-0">
+    <!-- <div class="absolute top-0">
       <svg
         class="lg:w-20 w-10 h-auto mt-10 lg:ml-10 ml-5"
         viewBox="0 0 69 108"
@@ -61,7 +65,7 @@
           stroke-linecap="round"
         />
       </svg>
-    </div>
+    </div> -->
   </div>
 </template>
 

@@ -124,6 +124,7 @@ const openMenu = ref(false);
 const navigation = [
   { name: "Our Services", href: "#ourServices" },
   { name: "About Us", href: "#aboutUs" },
+  { name: "Testimonials", href: "#testimonials" },
   // { name: "Testimonials", href: "#testimonials" },
   // { name: "Our Team", href: "#ourTeam" },
 ];
