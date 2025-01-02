@@ -44,6 +44,7 @@ useSeoMeta({
   ogDescription:
     "Here at MW ENERGY SOLUTIONS, we're dedicated to keeping the heart of your vessel beating strong.",
   ogImage: "@/assets/images/logo.png",
+  googleSiteVerification: "iPg4pQWG_jZuSo1E8RQWezeGNnfzuSA42Lrz5c5lfQw",
 });
 
 nuxtApp.hook("app:mounted", () => {
